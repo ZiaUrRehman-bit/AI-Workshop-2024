@@ -74,5 +74,4 @@ Contributions are welcome! If you have any suggestions, improvements, or additio
 
 **Let's dive into the world of Artificial Intelligence together!** 🚀✨
 
-Replace `zia-ur-rehman-217a6212b` with your actual LinkedIn handle. This will create a badge with the LinkedIn logo and a link to your profile.
 
