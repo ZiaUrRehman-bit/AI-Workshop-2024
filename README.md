@@ -1,6 +1,7 @@
 # AI Workshop
 
 Welcome to the AI Workshop! This repository contains materials and example codes for a comprehensive workshop covering various aspects of Artificial Intelligence (AI) using Python. Whether you're a beginner or an experienced programmer, this workshop will provide you with valuable insights and practical knowledge in the field of AI.
+![Poster AI Workshop-1](https://github.com/ZiaUrRehman-bit/AI-Workshop-2024/assets/77435711/b5bdfa82-a63e-48ae-b60f-cacbe560bbbb)
 
 ## Contents
 
