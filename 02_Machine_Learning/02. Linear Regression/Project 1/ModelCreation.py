@@ -38,6 +38,7 @@ def main():
 
     with open('model.pkl', 'wb') as f:
         pk.dump(model, f)
-        
+
+# The code inside it only runs if the script is executed directly, not if it's imported as a module into another script.      
 if __name__ == '__main__':
     main()
